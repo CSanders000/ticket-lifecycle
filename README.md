@@ -40,7 +40,7 @@ To start, we will log into osTicket as our System Administrator, Jane. As you ca
 <img src=https://github.com/CSanders000/ticket-lifecycle/assets/161166823/132a155a-3e13-4dd1-acf1-7a886826dada"/>
 </p>
 <p>
-We will first look at Amanda's Ticket. We can see in the ticket thread the details of the ticket. We can also look at the top portion and see things such as the topic, SLA plan, who the ticket is assigned to, and other helpful information. We can go down the left side to edit things such as the priority (which we deemed to be an emergency as users not being able to pay for their services is an interruption of critical business functions. We sent the ticket to System Administrators since this is urgent and a bit more complex of an issue for our regular support department. We assigned it to Jane (who we are acting as) since she's in the System Administrators department. We also assigned it an SLA plan of Sev-A, indicating the highest severity. We then told Amanda that we will be in contact with our team to resolve this issue as quickly as possible. We can also note that we left the status in the top left as "open" as in this case we hadn't resolved the ticket.
+We will first look at Amanda's Ticket. We can see in the ticket thread the details of the ticket. We can also look at the top portion and see things such as the topic, the SLA plan, who the ticket is assigned to, and other helpful information. We can go down the left side to edit things such as the priority (which we deemed to be an emergency as users not being able to pay for their services is an interruption of critical business functions. We sent the ticket to System Administrators since this is urgent and a bit more complex of an issue for our regular support department. We assigned it to Jane (who we are acting as) since she's in the System Administrators department. We also assigned it an SLA plan of Sev-A, indicating the highest severity. We then told Amanda that we would be in contact with our team to resolve this issue as quickly as possible. We can also note that we left the status in the top left as "open" as in this case, we hadn't resolved the ticket.
 </p>
 <br />
 
@@ -56,7 +56,7 @@ This image shows the lower half of the ticket resolution screen, including who c
 <img src=https://github.com/CSanders000/ticket-lifecycle/assets/161166823/f83bb6d5-0fe7-4a9c-8afe-119ef6890213"/>
 </p>
 <p>
-Next is a ticket from Ken asking his team will get a hardware refresh. This will be a Sev-C SLA since it's not partiularly urgent. We will also hand this one off to John since it can be easily handled by John. We also kept the ticket open since we as Jane are sending to someone else, and the priority is low.
+Next is a ticket from Ken asking his team will get a hardware refresh. This will be a Sev-C SLA since it's not particularly urgent. We will also hand this one off to John since it can be easily handled by John. We also kept the ticket open since we as Jane are sending it to someone else, and the priority is low.
 </p>
 <br />
 
@@ -72,7 +72,7 @@ Here we can see the updates in the ticket thread, as well as the ticket being as
 <img src=https://github.com/CSanders000/ticket-lifecycle/assets/161166823/b77fd6a8-b889-404a-99aa-6206b425c436"/>
 </p>
 <p>
-Here we can see Ryan's ticket for his issues with Adobe Acrobat Pro on his computer. We can see the help topic is Personal Computer Issues, a Sev-B SLA, we updated the priority level and the reasaon for the update. We as Jane gave Ryan an update as to what we were doing (in this case we rolled back the update and looked into the reason why there was an issue. We then send another update informing that the previous update was incompatable with his hardware and it should be fine to update with the new patch. We also reminded him it was okay to reach out with any concerns and closed the ticket. We can also see that the ticket was left open in the time we were searching for the couse of the issue, and closed after we updated Ryan. At the bottom of the screen it was closed at the same time the second message was sent.
+Here we can see Ryan's ticket for his issues with Adobe Acrobat Pro on his computer. We can see the help topic is Personal Computer Issues, a Sev-B SLA, we updated the priority level and the reason for the update. We as Jane gave Ryan an update as to what we were doing (in this case we rolled back the update and looked into the reason why there was an issue. We then sent another update informing that the previous update was incompatible with his hardware and that it should be fine to update with the new patch. We also reminded him it was okay to reach out with any concerns and closed the ticket. We can also see that the ticket was left open during the time we were searching for the cause of the issue and closed after we updated Ryan. At the bottom of the screen, it was closed at the same time the second message was sent.
 </p>
 <br />
 
